@@ -10,4 +10,4 @@
 
 ## Стек
 
-*pandas*, *numpy*, *sklearn* ,*seaborn*
+*pandas*, *numpy*, *sklearn*, *seaborn*
