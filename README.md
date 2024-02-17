@@ -3,8 +3,8 @@
 
 | Название проекта | Техники | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :--------------------- |
-| [1. Исследование объявлений о продаже квартир](Gold_manufacture) | Jupyter Notebook | *pandas*, *seaborn* |
-| [2. Выявление успешности игр](Gold_manufacture) | Logistic regression, Decision tree classifier, Random forest classifier, accuracy score  | *pandas*, *numpy*, *sklearn*, *seaborn*, *stats* |
+| [1. Исследование объявлений о продаже квартир](01 - YA.estate) | Jupyter Notebook | *pandas*, *seaborn* |
+| [2. Выявление успешности игр](02 - Computer games) | Logistic regression, Decision tree classifier, Random forest classifier, accuracy score  | *pandas*, *numpy*, *sklearn*, *seaborn*, *stats* |
 | [3. Рекомендация тарифов](Gold_manufacture) | Logistic regression, Decision tree classifier, Random forest classifier, accuracy score  | *pandas*, *sklearn*, *seaborn* |
 | [4. Предсказание оттока клиентов банка](Gold_manufacture) | Logistic regression, Random forest classifier, Ordinal Encoder, MSE, F1-score, Standard scaler  | *pandas*, *sklearn*, *seaborn* |
 | [5. Предсказание эфективности золотодобычи](Gold_manufacture) | Linear regression, MSE, Standard scaler  | *pandas*, *numpy*, *sklearn*, *seaborn*, *matplotlib* |
